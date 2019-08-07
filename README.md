@@ -1,2 +1,2 @@
 # RubenQL
-Este es mi repositorio para aprender Data Science y convertirme en un Data Scientist
+Este es mi repositorio para aprender Inteligencia Artificial, Data Science, Machine Learning y convertirme en un Data Scientist
